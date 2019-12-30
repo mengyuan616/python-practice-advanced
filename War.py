@@ -1,14 +1,3 @@
-#  File: War.py
-#  Description: HW3
-#  Student's Name: Mengyuan Dong
-#  Student's UT EID: md42252
-#  Course Name: CS 313E 
-#  Unique Number: 50739
-#
-#  Date Created: 02/20
-#  Date Last Modified: 03/01
-
-
 ## This is a card game played with a standard deck of 52 cards fo two players
 
 import random
