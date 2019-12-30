@@ -1,13 +1,3 @@
-#  File: sumMaze.py
-#  Description: HW 8. 
-#  Student's Name: Mengyuan Dong
-#  Student's UT EID: md42252
-#  Course Name: CS 313E 
-#  Unique Number: 50739
-#
-#  Date Created: 04/16/2019
-#  Date Last Modified: 04/19/2019
-
 import copy
 
 class State:
